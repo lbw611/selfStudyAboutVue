@@ -53,7 +53,7 @@
           <span>Password : any</span>
         </div>
         <div class="tips">
-          <span style="margin-right:18px;">Username : editor</span>
+          <span style="margin-right:18px;">用户名 : editor</span>
           <span>Password : any</span>
         </div>
 
